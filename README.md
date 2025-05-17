@@ -20,3 +20,6 @@ The system applies the **Facade** Design Pattern through a `SystemFacade` class 
 2. Go to `Code` Folder
 3. Run `AdminLoginPane.java`</br>
 To login => Admin ID: `admin1` Pass: `adminpass`
+
+## Tools Used
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
