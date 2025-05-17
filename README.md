@@ -13,3 +13,6 @@ A standalone Java GUI application for academic administrators to manage student 
 2. Go to `Code` Folder
 3. Run `AdminLoginPane.java`</br>
 To login => Admin ID: `admin1` Pass: `adminpass`
+
+## System Design
+- [Use Case/Class Diagram/Sequence Diagram](UML Diagram.png)  
