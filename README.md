@@ -11,5 +11,5 @@ A standalone Java GUI application for academic administrators to manage student 
 ## Installation
 1. Run `git clone "Repository Link"`
 2. Go to `Code` Folder
-3. Run `AdminLoginPane.java`
+3. Run `AdminLoginPane.java`</br>
 To login => Admin ID: `admin1` Pass: `adminpass`
