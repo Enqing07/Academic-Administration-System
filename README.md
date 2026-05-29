@@ -16,12 +16,6 @@ The system applies the **Facade** Design Pattern through a `SystemFacade` class 
 [Read Detailed Explanation](Design_Pattern.pdf)
 
 ## Installation
-1. Run `git clone "Repository Link"`
-2. Go to `Code` Folder
-3. Run `AdminLoginPane.java`</br>
-To login => Admin ID: `admin1` Pass: `adminpass`
-
-## Installation and Requirements
 
 1. In your terminal, clone the repository:
 ```bash
