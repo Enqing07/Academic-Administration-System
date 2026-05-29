@@ -21,5 +21,20 @@ The system applies the **Facade** Design Pattern through a `SystemFacade` class 
 3. Run `AdminLoginPane.java`</br>
 To login => Admin ID: `admin1` Pass: `adminpass`
 
+## Installation and Requirements
+
+1. In your terminal, clone the repository:
+```bash
+https://github.com/Enqing07/Academic-Administration-System.git
+cd Academic-Administration-System/Code
+```
+2. Open `Code/Client.java` and run it.
+
+## Login Credentials (for Testing)
+
+| ID       | Password  |
+|----------|-----------|
+| admin1   | adminpass |
+
 ## Tools Used
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
