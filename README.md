@@ -6,7 +6,7 @@ A standalone Java GUI application for academic administrators to manage student 
 </p>
 
 ## Main Features
-- **Student Enrollment**: Supports Single Program or Stackup Program registration (up to 3 programs 
+- **Student Enrollment**: Supports Single Program or Stackup Program registration (up to 3 programs)
   <p align="center">
     <img height="400" src="https://github.com/user-attachments/assets/5c66e389-920f-4933-a923-344840eeabcd" />
   </p>
